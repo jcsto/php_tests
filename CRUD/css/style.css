@@ -1,0 +1,13 @@
+#content {
+	width: 980px;
+	margin: auto;
+}
+.error-msg h3 {
+	padding: 10px;
+}
+input[name="zip"] {
+	width: 61px;
+}
+input[name="state"], input[name="city"] {
+	width: 80px;
+}
